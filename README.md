@@ -6,9 +6,9 @@ I'm a Software Engineer and my true passion lies in solving real world problems 
 
 Proficient Technologies: JavaScript, TypeScript, Python, React/Redux, Angular, Node, Express, PostgreSQL, Sequelize, Flask, Docker, Mocha, Chai.
 
-Exposure: SQL, Python, GraphQL, MongoDB, AWS3
+Exposure: SQL, MongoDB, AWS3
 
-Current Software Stack: PostgreSQL Express, React/Redux and Node Backend.
+Current Software Stack: Javascript, Python, Flask, PostgreSQL, Express, React/Redux & NodeJS
 
 👨‍🎓 UCF Philosophy & Biology
 
