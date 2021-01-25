@@ -3,11 +3,11 @@
 
 
 
-Proficient Technologies: JavaScript, TypeScript, Python, React/Redux, Angular, Node, Express, PostgreSQL, Sequelize, Flask, Docker, Mocha, Chai.
-
-Exposure: SQL, MongoDB, AWS3
+Proficient Technologies: JavaScript, Python, React/Redux, Node, Express, PostgreSQL, Sequelize, Flask, Docker, Mocha, Chai.
 
 Current Software Stack: Javascript, Python, Flask, PostgreSQL, Express, React/Redux & NodeJS
+
+Exposure: SQL, MongoDB, AWS3
 
 👨‍🎓 UCF Philosophy & Biology
 
